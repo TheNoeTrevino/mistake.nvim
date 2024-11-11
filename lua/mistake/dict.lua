@@ -1,4 +1,5 @@
 return {
+	["strcut"] = "struct",
 	["authorixation"] = "authorization",
 	["liek"] = "like",
 	["implimentation"] = "implementation",
